@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
             row.innerHTML = `
                 <td>${student.id}</td>
                 <td>
-                    <img src="./assets/dp 1.svg" alt="Student Image" width="25">
+                    <img src="./dp 1.svg" alt="Student Image" width="25">
                     ${student.first_name} ${student.last_name}
                 </td>
                 <td>${student.gender}</td>
